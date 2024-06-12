@@ -9,6 +9,7 @@ This project empowers you to generate creative text content using the power of l
 * **OpenAI API (Optional):** A powerful option for accessing advanced language models from OpenAI (requires a paid API key).
 * **Groq Langchain Chat (Optional):** A convenient way to utilize Groq's cloud-based collection of open-source models for fast and efficient processing.
 * **Ollama LLM (Locally Downloaded):** A free and open-source LLM (Llama 3 in this case) that can be run locally on your machine.
+* **LangServe:** A library that simplifies deployment of LangChain runnables and chains as REST APIs.
 * **Prompt Templates:** Two templates are defined for generating essays and poems.
 * **Routes:** Routes for essay and poem generation are added to the FastAPI application.
 * **Server Execution:** The FastAPI application is run using uvicorn.
